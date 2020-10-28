@@ -1,5 +1,5 @@
 {
-  "name": "react-native-test-flight",
+  "name": "@xbenjii/react-native-test-flight",
   "version": "1.0.0",
   "description": "react native test flight check",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waltershub/react-native-test-flight.git"
+    "url": "git+https://github.com/xbenjii/react-native-test-flight.git"
   },
   "keywords": [
     "test",
@@ -17,7 +17,7 @@
   "author": "Walter Shub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/waltershub/react-native-test-flight/issues"
+    "url": "https://github.com/xbenjii/react-native-test-flight/issues"
   },
-  "homepage": "https://github.com/waltershub/react-native-test-flight#readme"
+  "homepage": "https://github.com/xbenjii/react-native-test-flight#readme"
 }
